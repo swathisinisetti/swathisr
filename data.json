@@ -1,0 +1,55 @@
+{
+	"basics":
+	{
+		"name":"swathi",
+		"email":"swathisinisetti567@gmail.com",
+        "mobile":"993456789"
+        	
+	},
+	"career":{
+
+	"info":"To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+},
+"education":[
+{
+	"degree":"B.Tech(C.S.E)",
+	"institute":"Avanthi",
+	"data":["2015-19","76%"]
+},
+{  
+	"degree":"inter",
+	"institute":"nri",
+	"data":["2013-15","90%"]
+},
+{
+
+"degree":"ssc",
+	"institute":"st'marys",
+	"data":["2012-13","90%"]
+}
+],
+"skills":[
+{
+	"title":"proramming languages",
+	"info":["c","c++","java","python","R"]
+},
+{
+	"title":"database",
+	"info":["monodb","mysql","oracle"]
+},
+{
+
+	"title":"web technology",
+	"info":["css3","html5","javascript"]
+},
+{
+	"title":"library and frameworks",
+	"info":["angular","ionic","expressjs",".net"]
+},
+{
+	"title":"os",
+	"info":["linux","windows","dos"]
+}
+
+]
+}
